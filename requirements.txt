@@ -5,4 +5,4 @@ scikit-learn==1.4.*
 ipykernel==6.29.*
 imbalanced-learn==0.12.*
 matplotlib==3.8.*
-seaborn==0.13.*
+seaborn==0.13.*streamlit
